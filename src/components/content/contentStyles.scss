@@ -1,0 +1,13 @@
+.content{
+    display: grid;
+    margin:0 26px 24px 30px;
+
+    gap:10px;
+
+    .content-row{
+        text-align:left;
+        p{
+            font-size: 14px;
+        }
+    }
+}
